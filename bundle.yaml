@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "Xanadutech-dev-controller"
+description: "CloudBees CI configuration bundle for the Xanadutech dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/xanadutech/dev-controller"
+parent: "base"
